@@ -519,7 +519,8 @@ h6 {
 }
 
 #hero h2 {
-  color: #ff5722;
+  color: #ffffff;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #f44336;
   margin-bottom: 30px;
   font-size: 48px;
   font-weight: 700;
@@ -530,7 +531,9 @@ h6 {
   -webkit-animation-delay: 0.4s;
   animation-delay: 0.4s;
   margin: 0 auto 30px auto;
-  color: #ff5722;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #f44336;
+  color: #ffffff;
+  font-size: 30px;
 }
 
 #hero .carousel-control-prev,
