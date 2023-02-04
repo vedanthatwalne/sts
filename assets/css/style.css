@@ -180,7 +180,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: rgba(0, 0, 0, 0.1);
+  background: rgb(5 87 158 / 90%);
   transition: all 0.5s;
   z-index: 997;
   height: 70px;
